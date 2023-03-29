@@ -1,4 +1,4 @@
-<h1><b>JOGO00</b></h1>
+<h1><b>Jogo00</b></h1>
 Jogo inicial desenvolvido no projeto de Gameficação.
 <p>Este é um jogo em que o personagem precisa sobreviver o maior tempo possível desviando dos inimigos.</p> 
 
